@@ -33,9 +33,3 @@ This project implements a face recognition-based attendance system using OpenCV,
   - pywin32 (Windows only)
 
 ---
-
-## Setup Instructions
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-repo/face-recognition-attendance.git
-   cd face-recognition-attendance
